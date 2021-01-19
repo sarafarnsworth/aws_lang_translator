@@ -12,4 +12,8 @@ def translate_text():
     
     print(response)
     
-translate_text()
+def main():
+    translate_text()
+
+if __name__=="__main__":
+    main()
